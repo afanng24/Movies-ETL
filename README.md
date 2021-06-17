@@ -1,8 +1,9 @@
 # Written Analysis of Movies ETL 
 
 ## Overview of Project
-### Write an ETL function to read three data files
-### Extract and Transform the Wikipedia Data
-### Extract and Transform the Kaggle Data
-### Create the Movie Database
+The objective of Movies-ETL is to write an ETL function that reads three separate datafiles and converts them into their own dataframes. The idea is simply to take data from outside sources and put them into one place, which is conceptually a simple task especially since all the datafiles have somewhat similar data. The movies.csv, ratings.csv, and wikipedia JSON files are where we draw the data from to form three concise dataframes. 
+
+
+
+
 ## Going Through the Code 
